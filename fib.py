@@ -1,7 +1,7 @@
-def fib(n)
+def fib3(n)
 	a,b = 0,1
 	while a < n:
 		print (a, and = '')
 		a,b = b , a + b
 	print()
-fib(1000)
+fib3(1000)
